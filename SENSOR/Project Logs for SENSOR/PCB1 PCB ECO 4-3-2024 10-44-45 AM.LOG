@@ -1,6 +1,0 @@
-Change Component Designator: OldDesignator=H? NewDesignator=BOOT
-Change Component Designator: OldDesignator=H? NewDesignator=CAN
-Change Component Designator: OldDesignator=H? NewDesignator=DEBUG
-Add Pin To Net: Unknown Pin: Pin MPU GY-1-VCC
-Added Member To Class: ClassName=Sheet3 Member=Component CAN Header 4P 2.54 Duc Thang
-Added Member To Class: ClassName=Sheet3 Member=Component DEBUG Header 4P 2.54 Duc Thang

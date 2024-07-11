@@ -1,3 +1,0 @@
-Added Component: Designator=SW1(SW3-DIP)
-Add component (AddParameter): Name = "Value"; Value = "Switch 4x2"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Sheet1 Member=Component SW1 Switch 3x2
