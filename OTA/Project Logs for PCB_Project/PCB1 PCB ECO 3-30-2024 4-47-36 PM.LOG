@@ -1,0 +1,32 @@
+Added Pin To Net: NetName=+3.3 Pin=U?-J5_19
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=U?-J5_1
+Added Net: Name=+5
+Added Pin To Net: NetName=BOOT0_MCU1 Pin=U?-J4_2
+Added Net: Name=BOOT0_MCU1
+Added Pin To Net: NetName=BTN1_ESP Pin=U?-J5_13
+Added Net: Name=BTN1_ESP
+Added Pin To Net: NetName=BTN2_ESP Pin=U?-J5_12
+Added Net: Name=BTN2_ESP
+Added Pin To Net: NetName=GND Pin=U?-J4_1
+Added Pin To Net: NetName=GND Pin=U?-J4_7
+Added Pin To Net: NetName=GND Pin=U?-J5_6
+Added Net: Name=GND
+Added Pin To Net: NetName=LEDB_ESP Pin=U?-J5_9
+Added Net: Name=LEDB_ESP
+Added Pin To Net: NetName=LEDG_ESP Pin=U?-J5_10
+Added Net: Name=LEDG_ESP
+Added Pin To Net: NetName=LEDR_ESP Pin=U?-J5_11
+Added Net: Name=LEDR_ESP
+Added Pin To Net: NetName=RESET_MCU1 Pin=U?-J5_8
+Added Net: Name=RESET_MCU1
+Added Pin To Net: NetName=RESET_MCU2 Pin=U?-J4_8
+Added Net: Name=RESET_MCU2
+Added Pin To Net: NetName=RX_MCU Pin=U?-J4_11
+Added Net: Name=RX_MCU
+Added Pin To Net: NetName=SCL_ESP Pin=U?-J4_3
+Added Net: Name=SCL_ESP
+Added Pin To Net: NetName=SDA_ESP Pin=U?-J4_6
+Added Net: Name=SDA_ESP
+Added Pin To Net: NetName=TX_MCU Pin=U?-J4_12
+Added Net: Name=TX_MCU

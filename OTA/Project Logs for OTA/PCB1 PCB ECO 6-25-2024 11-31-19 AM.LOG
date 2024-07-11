@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=1N4007 NewDesignator=D1
+Change Component Designator: OldDesignator=BOOT MCU1 NewDesignator=MCU1
+Change Component Designator: OldDesignator=BOOT MCU2 NewDesignator=MCU 1
+Change Component Designator: OldDesignator=ESP32 NewDesignator=U1
+Change Component Designator: OldDesignator=JPCAN NewDesignator=JP1
+Change Component Designator: OldDesignator=OLED NewDesignator=OLED1
+Change Component Designator: OldDesignator=TJA1050 NewDesignator=U2
+Change Component Designator: OldDesignator=XL4015 NewDesignator=XL1

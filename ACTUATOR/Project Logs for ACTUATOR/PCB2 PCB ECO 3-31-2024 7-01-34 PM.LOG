@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=BOOT_JP NewDesignator=JP2
+Change Component Designator: OldDesignator=Boot OTA NewDesignator=MCU2
+Change Component Designator: OldDesignator=BTN1 NewDesignator=BTN2
+Change Component Designator: OldDesignator=BTN2 NewDesignator=BTN1
+Change Component Designator: OldDesignator=CAN NewDesignator=CAN1
+Change Component Designator: OldDesignator=CAN NewDesignator=U2
+Change Component Designator: OldDesignator=DC GEAR MOTOR NewDesignator=C1
+Change Component Designator: OldDesignator=DEBUG0 NewDesignator=OLED2
+Change Component Designator: OldDesignator=DEBUG1 NewDesignator=OLED3
+Change Component Designator: OldDesignator=ENCODER PORT NewDesignator=MCU1
+Change Component Designator: OldDesignator=I2C NewDesignator=OLED1
+Change Component Designator: OldDesignator=SERVO NewDesignator=H1
+Change Component Designator: OldDesignator=SPI NewDesignator=MCU3
+Added Member To Class: ClassName=Sheet2 Member=Component BTN2 SW
+Added Member To Class: ClassName=Sheet2 Member=Component CAN1 HEADER 4pin

@@ -1,0 +1,4 @@
+Added Component: Designator=FUSE(Fuse3)
+Added Pin To Net: NetName=NetFUSE_1 Pin=FUSE-1
+Added Pin To Net: NetName=12V Pin=FUSE-2
+Added Member To Class: ClassName=Sheet2 Member=Component FUSE Fuse Holder 23mm

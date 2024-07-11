@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=FUSE
+Change Component Designator: OldDesignator=*2 NewDesignator=SW
+Change Component Designator: OldDesignator= NewDesignator=TJA1050
+Change Component Designator: OldDesignator=BOOT OTA NewDesignator=BOOT
+Change Component Designator: OldDesignator=BTN1 NewDesignator=BTN2
+Change Component Designator: OldDesignator=BTN2 NewDesignator=BTN1
+Change Component Designator: OldDesignator=DC GEAR MOTOR NewDesignator=DC GEAR
+Change Component Designator: OldDesignator=DEBUG0 NewDesignator=DEBUG1
+Change Component Designator: OldDesignator=DEBUG 1 NewDesignator=DEBUG0
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP CAN
+Change Component Designator: OldDesignator=U1 NewDesignator=STM32F103C8T6
+Change Component Designator: OldDesignator=XL1 NewDesignator=XL4015
+Change Net Name : Old Net Name=Net*1_1 New Net Name=NetFUSE_1
+Change Net Name : Old Net Name=NetBTN1_2 New Net Name=NetBTN2_2
+Change Net Name : Old Net Name=NetBTN2_2 New Net Name=NetBTN1_2
+Change Net Name : Old Net Name=NetJP1_1 New Net Name=NetJP CAN_1
+Added Member To Class: ClassName=Sheet2 Member=Component BOOT Header 6P
+Added Member To Class: ClassName=Sheet2 Member=Component CAN HEADER 4pin
+Added Member To Class: ClassName=Sheet2 Member=Component DC GEAR JP4x2
+Added Member To Class: ClassName=Sheet2 Member=Component DEBUG0 HEADER 4pin
+Added Member To Class: ClassName=Sheet2 Member=Component DEBUG1 HEADER 4pin
+Added Member To Class: ClassName=Sheet2 Member=Component ENCODER Header 6P
+Added Member To Class: ClassName=Sheet2 Member=Component I2C HEADER 4pin
+Added Member To Class: ClassName=Sheet2 Member=Component SERVO Header 3P
+Added Member To Class: ClassName=Sheet2 Member=Component SPI Header 6P
+Added Member To Class: ClassName=Sheet2 Member=Component TJA1050

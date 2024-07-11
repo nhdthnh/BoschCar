@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=H1 NewDesignator=CAN1
+Change Component Designator: OldDesignator=H2 NewDesignator=CAN2
+Change Component Designator: OldDesignator=H3 NewDesignator=MCU1
+Change Component Designator: OldDesignator=H4 NewDesignator=OLED
+Change Component Designator: OldDesignator=H5 NewDesignator=CAN3
+Change Component Designator: OldDesignator=H6 NewDesignator=MCU 2
+Change Component Designator: OldDesignator=S1 NewDesignator=BTN2
+Change Component Designator: OldDesignator=S2 NewDesignator=BTN1
+Change Component Designator: OldDesignator=U2 NewDesignator=TJA_CAN

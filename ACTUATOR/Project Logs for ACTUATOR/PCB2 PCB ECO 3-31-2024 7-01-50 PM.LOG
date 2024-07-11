@@ -1,0 +1,18 @@
+Added Component: Designator=U2(SOT96-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TJA1050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TJA1050/NXP%20USA%20Inc./view-part/562764/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_TX_MCU2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Pin To Net: NetName=CAN_RX_MCU2 Pin=U2-4
+Added Pin To Net: NetName=CANL Pin=U2-6
+Added Pin To Net: NetName=CANH Pin=U2-7
+Added Pin To Net: NetName=NetR2_2 Pin=U2-8
+Added Member To Class: ClassName=Sheet2 Member=Component BTN1 SW
+Added Member To Class: ClassName=Sheet2 Member=Component JP2 JP 1x1 2.54
+Added Member To Class: ClassName=Sheet2 Member=Component U2 TJA1050

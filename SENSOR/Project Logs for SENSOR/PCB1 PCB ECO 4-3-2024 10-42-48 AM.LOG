@@ -1,0 +1,21 @@
+Add Component: Footprint Not Found XH2.54M-4
+Add Component: Footprint Not Found XH2.54M-4
+Add Component: Footprint Not Found XH2.54M-6
+Add Pin To Net: Unknown Pin: Pin CAN-1
+Add Pin To Net: Unknown Pin: Pin CAN-2
+Add Pin To Net: Unknown Pin: Pin CAN-3
+Add Pin To Net: Unknown Pin: Pin CAN-4
+Add Pin To Net: Unknown Pin: Pin DEBUG-1
+Add Pin To Net: Unknown Pin: Pin DEBUG-2
+Add Pin To Net: Unknown Pin: Pin DEBUG-3
+Add Pin To Net: Unknown Pin: Pin DEBUG-4
+Add Pin To Net: Unknown Pin: Pin MCU1-1
+Add Pin To Net: Unknown Pin: Pin MCU1-2
+Add Pin To Net: Unknown Pin: Pin MCU1-3
+Add Pin To Net: Unknown Pin: Pin MCU1-4
+Add Pin To Net: Unknown Pin: Pin MCU1-5
+Add Pin To Net: Unknown Pin: Pin MCU1-6
+Add Pin To Net: Unknown Pin: Pin MPU GY-1-VCC
+Add Class Member: Failed to add class member : Component CAN HEADER 4pin
+Add Class Member: Failed to add class member : Component DEBUG HEADER 4pin
+Add Class Member: Failed to add class member : Component MCU1 Header 6P

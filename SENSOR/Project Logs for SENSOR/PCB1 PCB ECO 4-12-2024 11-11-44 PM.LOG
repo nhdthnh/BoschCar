@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=DEBUG NewDesignator=DEBUG1
+Change Component Designator: OldDesignator=STM32F103C8T6 NewDesignator=STM1
+Change Component Designator: OldDesignator=TJA1050 NewDesignator=TJA1

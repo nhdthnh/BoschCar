@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=* NewDesignator=SWITCH
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetFUSE_1

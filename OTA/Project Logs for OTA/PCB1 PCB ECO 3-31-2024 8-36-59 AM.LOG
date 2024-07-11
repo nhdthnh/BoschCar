@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetBTN2_2 Pin=R6-1
+Removed Pin From Net: NetName=NetBTN1_2 Pin=R7-1
+Change Component Designator: OldDesignator=ESP32 NewDesignator=U1
+Change Component Designator: OldDesignator=MCU 2 NewDesignator=MCU 1
+Change Component Designator: OldDesignator=OLED NewDesignator=OLED1
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=TJA_CAN NewDesignator=TJA_CAN1
+Added Pin To Net: NetName=NetBTN1_2 Pin=R6-1
+Added Pin To Net: NetName=NetBTN2_2 Pin=R7-1

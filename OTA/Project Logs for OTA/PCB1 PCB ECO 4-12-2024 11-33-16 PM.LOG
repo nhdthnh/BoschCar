@@ -1,0 +1,20 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Tu 0805 101 50V 20% New DesignItemId=Tu gom 101 50V
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Tu 0805 101 50V 20% New DesignItemId=Tu gom 101 50V
+Change Component Footprint: Designator=C1 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C2 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Description : Designator=C1 Old Description=Dán New Description=C?m
+Change Component Description : Designator=C2 Old Description=Dán New Description=C?m
+Change component parameters: Designator = "C1" ("C1"); Footprint = "tu 0805"; UniqueID = "\JQAXNCUX" ("\JQAXNCUX")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004764"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 101 0.1nF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "tu 0805"; UniqueID = "\YXIRLFCD" ("\YXIRLFCD")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004764"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 101 0.1nF 50V"; VariantName = "[No Variations]"

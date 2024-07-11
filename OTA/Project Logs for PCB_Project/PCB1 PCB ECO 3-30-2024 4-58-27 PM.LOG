@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=RX_MCU New Net Name=TX_MCU
+Change Net Name : Old Net Name=TX_MCU New Net Name=RX_MCU
+Added Pin To Net: NetName=BOOT0_MCU2 Pin=U?-J4_9
+Added Net: Name=BOOT0_MCU2
+Added Pin To Net: NetName=CAN_RX_ESP Pin=U?-J4_10
+Added Net: Name=CAN_RX_ESP
+Added Pin To Net: NetName=CAN_TX_ESP Pin=U?-J4_13
+Added Net: Name=CAN_TX_ESP

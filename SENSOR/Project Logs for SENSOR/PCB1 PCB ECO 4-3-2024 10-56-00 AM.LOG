@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=+5 Pin=BOOT-1
+Added Pin To Net: NetName=GND Pin=BOOT-2
+Added Pin To Net: NetName=RST_MCU1 Pin=BOOT-3
+Added Pin To Net: NetName=BOOT0_MCU1 Pin=BOOT-4
+Added Pin To Net: NetName=TX_MCU Pin=BOOT-5
+Added Pin To Net: NetName=RX_MCU Pin=BOOT-6

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5 Pin=DEBUG0-1
+Removed Pin From Net: NetName=GND Pin=DEBUG0-2
+Added Member To Class: ClassName=Sheet2 Member=Component BTN2 SW

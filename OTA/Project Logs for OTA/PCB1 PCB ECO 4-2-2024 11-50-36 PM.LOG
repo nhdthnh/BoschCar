@@ -1,0 +1,9 @@
+Added Component: Designator=*(Fuse3)
+Added Component: Designator=SW1(SW3-DIP)
+Add component (AddParameter): Name = "Value"; Value = "Switch 4x2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=*-2
+Added Pin To Net: NetName=Net*2_1 Pin=*-1
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Net: Name=Net*2_1
+Added Member To Class: ClassName=Sheet1 Member=Component * Fuse Holder 23mm
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 Switch 3x2
