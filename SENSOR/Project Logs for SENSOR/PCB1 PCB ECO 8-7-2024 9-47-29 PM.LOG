@@ -1,0 +1,14 @@
+Change Component Comment : Designator=KF1 Old Comment=CON 2 KF301 New Comment=POWER
+Change Component Comment : Designator=Fuse1 Old Comment=Fuse Holder 23mm New Comment=Fuse
+Change Component Designator: OldDesignator=CAN1 NewDesignator=CAN
+Change Component Designator: OldDesignator=CJVL1 NewDesignator=CJVL53L0XV2-0
+Change Component Designator: OldDesignator=CJVL2 NewDesignator=CJVL53L0XV2-1
+Change Component Designator: OldDesignator=Fuse1 NewDesignator=Fuse
+Change Component Designator: OldDesignator=INA1 NewDesignator=INA219
+Change Component Designator: OldDesignator=KF1 NewDesignator=POWER
+Change Component Designator: OldDesignator=MCP1 NewDesignator=MCP2551
+Change Component Designator: OldDesignator=MPU1 NewDesignator=MPU GY 91
+Change Component Designator: OldDesignator=STM1 NewDesignator=STM32F103C8T6
+Change Component Designator: OldDesignator=SWITCH1 NewDesignator=SWITCH
+Change Component Designator: OldDesignator=XL1 NewDesignator=XL4015
+Change Net Name : Old Net Name=NetFuse1_1 New Net Name=NetFuse_1

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB3.PcbDoc   4/13/2024  12:08:20 AM
+NCDrill File Report For: PCB3.PcbDoc   10/17/2024  8:38:49 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,20 +7,18 @@ ASCII RoundHoles File : PCB3.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      24mil (0.599mm)                                           Round             18        PTH        9.85inch (250.22mm)
-T2      28mil (0.701mm)                                           Round             4         PTH        0.49inch (12.45mm)
-T3      28mil (0.711mm)                                           Round             17        PTH        10.84inch (275.27mm)
-T4      30mil (0.762mm)                                           Round             4         PTH        3.70inch (93.98mm)
-T5      32mil (0.8mm)                                             Round             37        PTH        5.38inch (136.60mm)
-T6      35mil (0.889mm)                                           Round             2         PTH        0.30inch (7.62mm)
-T7      39mil (1.001mm)                                           Round             43        PTH        8.05inch (204.59mm)
-T8      40mil (1.016mm)                                           Round             6         PTH        0.52inch (13.31mm)
-T9      40mil (1.021mm)                                           Round             8         PTH        0.70inch (17.78mm)
-T10     43mil (1.1mm)                                             Round             3         PTH        0.93inch (23.73mm)
-T11     47mil (1.199mm)                                           Round             2         PTH        0.49inch (12.45mm)
-T12     59mil (1.501mm)                                           Round             2         PTH        0.89inch (22.60mm)
-T13     138mil (3.5mm)                                            Round             6         PTH        13.03inch (330.85mm)
+T1      28mil (0.711mm)                                           Round             3         PTH        0.73inch (18.61mm)
+T2      30mil (0.762mm)                                           Round             8         PTH        7.75inch (196.95mm)
+T3      32mil (0.8mm)                                             Round             6         PTH        0.50inch (12.70mm)
+T4      39mil (1.001mm)                                           Round             44        PTH        7.40inch (188.08mm)
+T5      40mil (1.016mm)                                           Round             3         PTH        0.24inch (6.10mm)
+T6      40mil (1.021mm)                                           Round             12        PTH        1.83inch (46.55mm)
+T7      43mil (1.1mm)                                             Round             3         PTH        0.20inch (5.08mm)
+T8      45mil (1.143mm)                                           Round             2         PTH        0.48inch (12.19mm)
+T9      50mil (1.27mm)                                            Round             2         PTH        0.20inch (5.08mm)
+T10     59mil (1.501mm)                                           Round             2         PTH        0.89inch (22.60mm)
+T11     138mil (3.5mm)                                            Round             12        PTH        18.66inch (474.07mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              152
+Totals                                                                              97
 
 Total Processing Time (hh:mm:ss) : 00:00:00

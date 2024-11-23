@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=BTN1 NewDesignator=BTN2
+Change Component Designator: OldDesignator=BTN2 NewDesignator=BTN1
+Change Component Designator: OldDesignator=JP1 NewDesignator=JPCAN
+Change Component Designator: OldDesignator=U2 NewDesignator=TJA1050

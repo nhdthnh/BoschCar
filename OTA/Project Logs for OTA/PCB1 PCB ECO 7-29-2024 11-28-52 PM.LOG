@@ -1,0 +1,10 @@
+Change Component Comment : Designator=CAN1 Old Comment=HEADER 4pin New Comment=CAN1
+Change Component Comment : Designator=CAN2 Old Comment=HEADER 4pin New Comment=CAN2
+Change Component Comment : Designator=CAN3 Old Comment=HEADER 4pin New Comment=CAN3
+Change Component Comment : Designator=OLED Old Comment=HEADER 4pin New Comment=OLED
+Change Component Comment : Designator=MCU 1 Old Comment=Header 6P New Comment=MCU 1
+Change Component Comment : Designator=MCU 2 Old Comment=Header 6P New Comment=MCU 2
+Change Component Designator: OldDesignator=BTN1 NewDesignator=BTN2
+Change Component Designator: OldDesignator=BTN2 NewDesignator=BTN1
+Change Net Name : Old Net Name=NetBTN1_2 New Net Name=NetBTN2_2
+Change Net Name : Old Net Name=NetBTN2_2 New Net Name=NetBTN1_2

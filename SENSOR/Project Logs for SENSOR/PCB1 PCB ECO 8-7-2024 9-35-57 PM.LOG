@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=+5 Pin=BOOT-1
+Removed Pin From Net: NetName=GND Pin=BOOT-2
+Removed Pin From Net: NetName=GND Pin=BTN1-1
+Removed Pin From Net: NetName=GND Pin=BTN2-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=12_VIN Pin=CAN-1
+Removed Pin From Net: NetName=12_GND Pin=CAN-2
+Removed Pin From Net: NetName=CANH Pin=CAN-3
+Removed Pin From Net: NetName=CANL Pin=CAN-4
+Removed Pin From Net: NetName=+5 Pin=CJVL53L0XV2-2-1
+Removed Pin From Net: NetName=GND Pin=CJVL53L0XV2-2-2
+Removed Pin From Net: NetName=SCL_MCU1 Pin=CJVL53L0XV2-2-3
+Removed Pin From Net: NetName=SDA_MCU1 Pin=CJVL53L0XV2-2-4
+Removed Pin From Net: NetName=+5 Pin=CJVL53L0XV2-3-1
+Removed Pin From Net: NetName=GND Pin=CJVL53L0XV2-3-2
+Removed Pin From Net: NetName=SCL_MCU1 Pin=CJVL53L0XV2-3-3
+Removed Pin From Net: NetName=SDA_MCU1 Pin=CJVL53L0XV2-3-4
+Removed Pin From Net: NetName=+5 Pin=DEBUG-1
+Removed Pin From Net: NetName=GND Pin=DEBUG-2
+Removed Pin From Net: NetName=CANL Pin=JPCAN-2
+Removed Pin From Net: NetName=+5 Pin=L1-1
+Removed Pin From Net: NetName=+5 Pin=L2-1
+Removed Pin From Net: NetName=+5 Pin=L3-1
+Removed Pin From Net: NetName=12_VIN Pin=POWER-1
+Removed Pin From Net: NetName=12_GND Pin=POWER-2
+Removed Pin From Net: NetName=GPIO1_MCU1.0 Pin=R5-1
+Removed Pin From Net: NetName=XShut_MCU1.0 Pin=R6-1
+Removed Pin From Net: NetName=SDA_MCU1 Pin=R7-1
+Removed Pin From Net: NetName=+5 Pin=R7-2
+Removed Pin From Net: NetName=SCL_MCU1 Pin=R8-1
+Removed Pin From Net: NetName=+5 Pin=R8-2
+Removed Pin From Net: NetName=GPIO1_MCU1.1 Pin=R9-1
+Removed Pin From Net: NetName=+5 Pin=R9-2
+Removed Pin From Net: NetName=XShut_MCU1.1 Pin=R10-1
+Removed Pin From Net: NetName=+5 Pin=R10-2
+Removed Pin From Net: NetName=+5 Pin=R14-2
+Removed Pin From Net: NetName=+5 Pin=R15-2
+Removed Pin From Net: NetName=CANH Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=CAN_TX_MCU1 Pin=TJA1050-1
+Removed Pin From Net: NetName=GND Pin=TJA1050-2
+Removed Pin From Net: NetName=+5 Pin=TJA1050-3
+Removed Pin From Net: NetName=CAN_RX_MCU1 Pin=TJA1050-4
+Removed Pin From Net: NetName=CANL Pin=TJA1050-6
+Removed Pin From Net: NetName=CANH Pin=TJA1050-7
+Removed Member From Class: ClassName=Sheet3 Member=BOOT
+Removed Member From Class: ClassName=Sheet3 Member=BTN1
+Removed Member From Class: ClassName=Sheet3 Member=BTN2
+Removed Member From Class: ClassName=Sheet3 Member=C1
+Removed Member From Class: ClassName=Sheet3 Member=C2
+Removed Member From Class: ClassName=Sheet3 Member=CAN
+Removed Member From Class: ClassName=Sheet3 Member=CJVL53L0XV2-2
+Removed Member From Class: ClassName=Sheet3 Member=CJVL53L0XV2-3
+Removed Member From Class: ClassName=Sheet3 Member=DEBUG
+Removed Member From Class: ClassName=Sheet3 Member=JPBOOT
+Removed Member From Class: ClassName=Sheet3 Member=L1
+Removed Member From Class: ClassName=Sheet3 Member=L2
+Removed Member From Class: ClassName=Sheet3 Member=L3
+Removed Member From Class: ClassName=Sheet3 Member=POWER
+Removed Member From Class: ClassName=Sheet3 Member=R7
+Removed Member From Class: ClassName=Sheet3 Member=R8
+Removed Member From Class: ClassName=Sheet3 Member=R9
+Removed Member From Class: ClassName=Sheet3 Member=R10
+Removed Member From Class: ClassName=Sheet3 Member=R11
+Removed Member From Class: ClassName=Sheet3 Member=R12
+Removed Member From Class: ClassName=Sheet3 Member=R13
+Removed Member From Class: ClassName=Sheet3 Member=R14
+Removed Member From Class: ClassName=Sheet3 Member=R15
+Removed Member From Class: ClassName=Sheet3 Member=R16
+Removed Member From Class: ClassName=Sheet3 Member=R17
+Removed Member From Class: ClassName=Sheet3 Member=R18
+Removed Member From Class: ClassName=Sheet3 Member=R19
+Removed Member From Class: ClassName=Sheet3 Member=TJA1050
+Change Component Footprint: Designator=R1 Old Footprint=tro vach 1/4w New Footprint=RES-SMD-1210
+Change Component Footprint: Designator=R2 Old Footprint=tro vach 1/4w New Footprint=RES-SMD-1210
+Change Component Footprint: Designator=R3 Old Footprint=tro vach 1/4w New Footprint=RES-SMD-1210
+Change Component Footprint: Designator=R4 Old Footprint=tro vach 1/4w New Footprint=RES-SMD-1210
+Change Component Footprint: Designator=R5 Old Footprint=tro vach 1/4w New Footprint=RES-SMD-1210
+Change Component Footprint: Designator=R6 Old Footprint=tro vach 1/4w New Footprint=RES-SMD-1210
+Change Component Designator: OldDesignator=CJVL53L0XV2-0 NewDesignator=CJVL1
+Change Component Designator: OldDesignator=CJVL53L0XV2-1 NewDesignator=CJVL2
+Change Component Designator: OldDesignator=Fuse NewDesignator=Fuse1
+Change Component Designator: OldDesignator=INA219 NewDesignator=INA1
+Change Component Designator: OldDesignator=MPU NewDesignator=MPU1
+Change Component Designator: OldDesignator=STM32F103C8T6 NewDesignator=STM1
+Change Component Designator: OldDesignator=SWITCH NewDesignator=SWITCH1
+Change Component Designator: OldDesignator=XL4015 NewDesignator=XL1
+Change component parameters: Designator = "R1" ("R1"); Footprint = "tro vach 1/4w"; UniqueID = "\VSCELANG" ("\VSCELANG")
+Change component parameters: Designator = "R2" ("R2"); Footprint = "tro vach 1/4w"; UniqueID = "\LAWPWAOH" ("\LAWPWAOH")
+Change component parameters: Designator = "R3" ("R3"); Footprint = "tro vach 1/4w"; UniqueID = "\NSIQPDKU" ("\NSIQPDKU")
+Change component parameters: Designator = "R4" ("R4"); Footprint = "tro vach 1/4w"; UniqueID = "\FXCQZFAZ" ("\FXCQZFAZ")
+Change component parameters: Designator = "R5" ("R5"); Footprint = "tro vach 1/4w"; UniqueID = "\WELVMAOI" ("\WELVMAOI")
+Change component parameters: Designator = "R6" ("R6"); Footprint = "tro vach 1/4w"; UniqueID = "\BBRHROYS" ("\BBRHROYS")
+Added Component: Designator=CAN1(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Component: Designator=KF1(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Component: Designator=MCP1(JP 1x6 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=CAN1-1
+Added Pin To Net: NetName=CANH Pin=CAN1-2
+Added Pin To Net: NetName=12_GND Pin=KF1-1
+Added Pin To Net: NetName=12_VIN Pin=KF1-2
+Added Pin To Net: NetName=CANL Pin=MCP1-1
+Added Pin To Net: NetName=CANH Pin=MCP1-2
+Added Pin To Net: NetName=CAN_RX_MCU1 Pin=MCP1-3
+Added Pin To Net: NetName=CAN_TX_MCU1 Pin=MCP1-4
+Added Pin To Net: NetName=GND Pin=MCP1-5
+Added Pin To Net: NetName=+5 Pin=MCP1-6
+Added Pin To Net: NetName=GPIO1_MCU1.0 Pin=R1-1
+Added Pin To Net: NetName=XShut_MCU1.0 Pin=R2-1
+Added Pin To Net: NetName=GPIO1_MCU1.1 Pin=R3-1
+Added Pin To Net: NetName=XShut_MCU1.1 Pin=R4-1
+Added Pin To Net: NetName=SCL_MCU1 Pin=R5-1
+Added Pin To Net: NetName=SDA_MCU1 Pin=R6-1
+Change Net Name : Old Net Name=NetFUSE_1 New Net Name=NetFuse1_1
+Added Member To Class: ClassName=Sheet3 Member=Component CAN1 CAN
+Added Member To Class: ClassName=Sheet3 Member=Component KF1 CON 2 KF301
+Added Member To Class: ClassName=Sheet3 Member=Component MCP1 MCP2551

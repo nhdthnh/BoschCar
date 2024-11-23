@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Added Component: Designator=CAN(JP 1x4 CC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x40P Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_TX Pin=CAN-1
+Added Pin To Net: NetName=CAN_RX Pin=CAN-2
+Added Pin To Net: NetName=GND Pin=CAN-3
+Added Pin To Net: NetName=+3.3 Pin=CAN-4
+Added Member To Class: ClassName=Sheet2 Member=Component CAN
+Added Member To Class: ClassName=Sheet2 Member=Component XL4015_SERVO XL4015

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CAN_TX Pin=CAN-1
+Removed Pin From Net: NetName=CAN_RX Pin=CAN-2
+Removed Pin From Net: NetName=GND Pin=CAN-3
+Removed Pin From Net: NetName=+3.3 Pin=CAN-4
+Added Component: Designator=SWITCH(SW102T)
+Added Pin To Net: NetName=+3.3 Pin=CAN-1
+Added Pin To Net: NetName=GND Pin=CAN-2
+Added Pin To Net: NetName=CAN_RX Pin=CAN-3
+Added Pin To Net: NetName=CAN_TX Pin=CAN-4
+Added Pin To Net: NetName=NetFUSE_1 Pin=SWITCH-1
+Added Pin To Net: NetName=12_VIN Pin=SWITCH-2
+Added Member To Class: ClassName=Sheet2 Member=Component CAN
+Added Member To Class: ClassName=Sheet2 Member=Component SWITCH Slide swich vertical

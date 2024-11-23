@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=MCU1 NewDesignator=MCU 1
+Change Component Designator: OldDesignator=MCU 1 NewDesignator=MCU 2
+Change Component Designator: OldDesignator=OLED1 NewDesignator=OLED
+Change Component Designator: OldDesignator=U1 NewDesignator=ESP32
+Change Component Designator: OldDesignator=XL1 NewDesignator=XL4015

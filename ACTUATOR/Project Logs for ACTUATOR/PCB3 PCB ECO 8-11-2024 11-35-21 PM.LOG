@@ -1,0 +1,12 @@
+Added Component: Designator=STM32F103C8T6(Stm32 BluePill)
+Added Pin To Net: NetName=L_PWM Pin=STM32F103C8T6-5
+Added Pin To Net: NetName=+5 Pin=STM32F103C8T6-18
+Added Pin To Net: NetName=GND Pin=STM32F103C8T6-19
+Added Pin To Net: NetName=EncoderA Pin=STM32F103C8T6-25
+Added Pin To Net: NetName=EncoderB Pin=STM32F103C8T6-26
+Added Pin To Net: NetName=Servo_PWM Pin=STM32F103C8T6-31
+Added Pin To Net: NetName=R_PWM Pin=STM32F103C8T6-32
+Added Pin To Net: NetName=+3.3 Pin=STM32F103C8T6-38
+Added Pin To Net: NetName=GND Pin=STM32F103C8T6-39
+Added Pin To Net: NetName=GND Pin=STM32F103C8T6-40
+Added Member To Class: ClassName=Sheet2 Member=Component STM32F103C8T6

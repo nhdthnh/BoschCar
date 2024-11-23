@@ -1,0 +1,12 @@
+Added Component: Designator=XL4015_SERVO(XL4015)
+Added Component: Designator=XL4015(XL4015)
+Added Pin To Net: NetName=NetD1_2 Pin=XL4015-IN+
+Added Pin To Net: NetName=12_GND Pin=XL4015-IN-
+Added Pin To Net: NetName=+5 Pin=XL4015-OUT+
+Added Pin To Net: NetName=GND Pin=XL4015-OUT-
+Added Pin To Net: NetName=NetD2_2 Pin=XL4015_SERVO-IN+
+Added Pin To Net: NetName=12_GND Pin=XL4015_SERVO-IN-
+Added Pin To Net: NetName=+7.2 Pin=XL4015_SERVO-OUT+
+Added Pin To Net: NetName=GND Pin=XL4015_SERVO-OUT-
+Added Member To Class: ClassName=Sheet2 Member=Component XL4015_SERVO XL4015
+Added Member To Class: ClassName=Sheet2 Member=Component XL4015

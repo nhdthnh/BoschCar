@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CAN_TX_MCU1 Pin=CAN-1
+Removed Pin From Net: NetName=CAN_RX_MCU1 Pin=CAN-2
+Removed Pin From Net: NetName=GND Pin=CAN-3
+Removed Pin From Net: NetName=+3.3 Pin=CAN-4
+Added Pin To Net: NetName=+3.3 Pin=CAN-1
+Added Pin To Net: NetName=GND Pin=CAN-2
+Added Pin To Net: NetName=CAN_RX_MCU1 Pin=CAN-3
+Added Pin To Net: NetName=CAN_TX_MCU1 Pin=CAN-4

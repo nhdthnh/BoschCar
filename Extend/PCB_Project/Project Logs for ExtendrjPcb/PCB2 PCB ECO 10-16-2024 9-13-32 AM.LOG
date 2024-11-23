@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetKF1_1 Pin=KF1-1
+Removed Pin From Net: NetName=NetKF1_2 Pin=KF1-2
+Removed Pin From Net: NetName=NetJP1_1 Pin=KF2-1
+Removed Pin From Net: NetName=NetJP1_2 Pin=KF2-2
+Removed Member From Class: ClassName=Sheet2 Member=KF10
+Removed Member From Class: ClassName=Sheet2 Member=KF11
+Change Component Designator: OldDesignator=KF3 NewDesignator=KF1
+Change Component Designator: OldDesignator=KF4 NewDesignator=KF2
+Change Component Designator: OldDesignator=KF5 NewDesignator=KF3
+Change Component Designator: OldDesignator=KF6 NewDesignator=KF4
+Change Component Designator: OldDesignator=KF7 NewDesignator=KF5
+Change Component Designator: OldDesignator=KF8 NewDesignator=KF6
+Change Component Designator: OldDesignator=KF9 NewDesignator=KF7
+Change Component Designator: OldDesignator=KF10 NewDesignator=KF8
+Change Component Designator: OldDesignator=KF11 NewDesignator=KF9

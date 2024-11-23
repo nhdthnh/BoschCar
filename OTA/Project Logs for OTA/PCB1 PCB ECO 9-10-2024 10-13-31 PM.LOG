@@ -1,0 +1,17 @@
+Added Component: Designator=ESP32(MODULE_ESP32_NODEMCU)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32%20NODEMCU/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32 NODEMCU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32%20NODEMCU/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ESP32-J4_1
+Added Pin To Net: NetName=SCL_ESP Pin=ESP32-J4_3
+Added Pin To Net: NetName=SDA_ESP Pin=ESP32-J4_6
+Added Pin To Net: NetName=GND Pin=ESP32-J4_7
+Added Pin To Net: NetName=CAN_TX_ESP Pin=ESP32-J4_10
+Added Pin To Net: NetName=CAN_RX_ESP Pin=ESP32-J4_13
+Added Pin To Net: NetName=+5 Pin=ESP32-J5_1
+Added Pin To Net: NetName=GND Pin=ESP32-J5_6
+Added Pin To Net: NetName=+3.3 Pin=ESP32-J5_19
+Added Member To Class: ClassName=Sheet1 Member=Component ESP32 ESP32_NODEMCU

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=12V Pin=KF?-1
+Added Component: Designator=SW?(SW_TOGGLE_7103P3YZQE)
+Add component (AddParameter): Name = "Actuator Length"; Value = "11.43mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Brass, Chrome Plated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Flat Anti-Rotation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Thread"; Value = "1/4-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ckswitches.com/media/1394/7000toggle.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ckswitches.com/media/1394/7000toggle.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A (AC/DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "40,000 Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Epoxy Sealed Terminals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type, Color"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Voltage (Nominal)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "7103P3YZQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Panel Cutout Dimensions"; Value = "Circular - 6.35mm Dia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=7.89, 10=7.496, 25=7.2984, 50=7.101, 100=6.9038, 250=6.50924, 500=5.523, 1000=5.22713 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CKN1024-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-Off-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=SW?-1
+Added Pin To Net: NetName=NetKF?_1 Pin=KF?-1
+Added Pin To Net: NetName=NetKF?_1 Pin=SW?-2
+Added Net: Name=NetKF?_1
+Added Member To Class: ClassName=Sheet2 Member=Component SW? 7103P3YZQE

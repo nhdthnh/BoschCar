@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=NetJP1_1 New Net Name=CANH
+Change Net Name : Old Net Name=NetJP1_2 New Net Name=CANL
+Change Net Name : Old Net Name=NetKF1_1 New Net Name=12V
+Change Net Name : Old Net Name=NetKF1_2 New Net Name=GND
+Added Member To Class: ClassName=Sheet2 Member=Component KF1 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF2 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF5 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF8 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF9 CON 2 KF301

@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=CAN SN65HVD230  NewDesignator=JP?
+Added Component: Designator=INA219(INA219)
+Added Pin To Net: NetName=GND Pin=INA219-GND
+Added Pin To Net: NetName=SCL_MCU1 Pin=INA219-SCL
+Added Pin To Net: NetName=SDA_MCU1 Pin=INA219-SDA
+Added Pin To Net: NetName=12V_NoMeasured Pin=INA219-VCC+
+Added Pin To Net: NetName=12V Pin=INA219-VCC-
+Added Pin To Net: NetName=+3.3 Pin=INA219-VCC
+Added Member To Class: ClassName=Sheet3 Member=Component INA219
+Added Member To Class: ClassName=Sheet3 Member=Component JP? JP 1x4 2.54

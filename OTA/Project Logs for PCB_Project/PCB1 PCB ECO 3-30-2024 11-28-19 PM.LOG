@@ -1,6 +1,0 @@
-Added Component: Designator=XL1(XL4015)
-Added Pin To Net: NetName=NetD1_2 Pin=XL1-IN+
-Added Pin To Net: NetName=12_GND Pin=XL1-IN-
-Added Pin To Net: NetName=+5 Pin=XL1-OUT+
-Added Pin To Net: NetName=GND Pin=XL1-OUT-
-Added Member To Class: ClassName=Sheet1 Member=Component XL1 XL4015

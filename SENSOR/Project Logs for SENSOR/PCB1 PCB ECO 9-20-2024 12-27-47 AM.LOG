@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=12V_NoMeasured Pin=Fuse-2
+Added Pin To Net: NetName=12V Pin=Fuse-2

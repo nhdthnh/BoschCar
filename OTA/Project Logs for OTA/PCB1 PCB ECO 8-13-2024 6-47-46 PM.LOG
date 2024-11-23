@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=CAN_RX_ESP Pin=ESP32-J4_10
+Removed Pin From Net: NetName=CAN_TX_ESP Pin=ESP32-J4_13
+Change Component Comment : Designator=MCP2551  Old Comment=MCP2551  New Comment=MCP2551
+Change Component Designator: OldDesignator=MCP2551  NewDesignator=MCP2551
+Added Component: Designator=CAN1(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Component: Designator=CAN2(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=CAN1-1
+Added Pin To Net: NetName=CANH Pin=CAN1-2
+Added Pin To Net: NetName=CANL Pin=CAN2-1
+Added Pin To Net: NetName=CANH Pin=CAN2-2
+Added Pin To Net: NetName=CAN_TX_ESP Pin=ESP32-J4_10
+Added Pin To Net: NetName=CAN_RX_ESP Pin=ESP32-J4_13
+Added Member To Class: ClassName=Sheet1 Member=Component CAN1 CAN
+Added Member To Class: ClassName=Sheet1 Member=Component CAN2 CAN
+Added Member To Class: ClassName=Sheet1 Member=Component CAN
+Added Member To Class: ClassName=Sheet1 Member=Component D1 100v
+Added Member To Class: ClassName=Sheet1 Member=Component ESP32 ESP32_NODEMCU
+Added Member To Class: ClassName=Sheet1 Member=Component FUSE Fuse Holder 23mm
+Added Member To Class: ClassName=Sheet1 Member=Component MCP2551
+Added Member To Class: ClassName=Sheet1 Member=Component OLED
+Added Member To Class: ClassName=Sheet1 Member=Component POWER
+Added Member To Class: ClassName=Sheet1 Member=Component SWITCH Slide swich vertical
+Added Member To Class: ClassName=Sheet1 Member=Component XL4015

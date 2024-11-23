@@ -1,0 +1,4 @@
+Added Component: Designator=SWITCH(SLIDE Switch)
+Added Pin To Net: NetName=NetFuse_1 Pin=SWITCH-1
+Added Pin To Net: NetName=12V VIN Pin=SWITCH-2
+Added Member To Class: ClassName=Sheet1 Member=Component SWITCH Slide swich vertical

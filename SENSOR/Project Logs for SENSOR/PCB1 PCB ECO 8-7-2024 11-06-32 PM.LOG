@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5 Pin=CJVL53L0XV2-0-1
+Removed Pin From Net: NetName=+5 Pin=CJVL53L0XV2-1-1
+Added Pin To Net: NetName=+3.3 Pin=CJVL53L0XV2-0-1
+Added Pin To Net: NetName=+3.3 Pin=CJVL53L0XV2-1-1

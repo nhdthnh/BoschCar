@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12_VIN Pin=SWITCH-2
+Removed Member From Class: ClassName=Sheet2 Member=SWITCH
+Change Component Designator: OldDesignator=CAN SN65HVD230  NewDesignator=CAN
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Added Component: Designator=*(SLIDE Switch)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=FUSE-1
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=Sheet2 Member=Component * Slide swich vertical
+Added Member To Class: ClassName=Sheet2 Member=Component CAN

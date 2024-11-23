@@ -1,0 +1,56 @@
+Change Component Comment : Designator=SERVO Old Comment=SERVO New Comment=Header 3P 2.54 Duc Thang
+Change Component Designator: OldDesignator=XL? NewDesignator=XL4015_SERVO
+Added Component: Designator=CAN(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Component: Designator=ENCODER(XH2.54M-6)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 6P XH2.54-6P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=MCP?(JP 1x6 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=POWER(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOTOR- Pin=ENCODER-1
+Added Pin To Net: NetName=GND Pin=ENCODER-2
+Added Pin To Net: NetName=EncoderA Pin=ENCODER-3
+Added Pin To Net: NetName=EncoderB Pin=ENCODER-4
+Added Pin To Net: NetName=+3.3 Pin=ENCODER-5
+Added Pin To Net: NetName=MOTOR+ Pin=ENCODER-6
+Added Pin To Net: NetName=GND Pin=MCP?-5
+Added Pin To Net: NetName=+5 Pin=MCP?-6
+Added Pin To Net: NetName=12_VIN Pin=POWER-1
+Added Pin To Net: NetName=12_GND Pin=POWER-2
+Added Pin To Net: NetName=CAN_RX Pin=MCP?-3
+Added Pin To Net: NetName=CAN_RX Pin=STM32F103C8T6-8
+Added Net: Name=CAN_RX
+Added Pin To Net: NetName=CAN_TX Pin=MCP?-4
+Added Pin To Net: NetName=CAN_TX Pin=STM32F103C8T6-9
+Added Net: Name=CAN_TX
+Added Pin To Net: NetName=CANH Pin=CAN-2
+Added Pin To Net: NetName=CANH Pin=MCP?-2
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=CAN-1
+Added Pin To Net: NetName=CANL Pin=MCP?-1
+Added Net: Name=CANL
+Added Member To Class: ClassName=Sheet2 Member=Component CAN
+Added Member To Class: ClassName=Sheet2 Member=Component ENCODER Header 6P 2.54 Duc Thang
+Added Member To Class: ClassName=Sheet2 Member=Component MCP? MCP2551
+Added Member To Class: ClassName=Sheet2 Member=Component POWER

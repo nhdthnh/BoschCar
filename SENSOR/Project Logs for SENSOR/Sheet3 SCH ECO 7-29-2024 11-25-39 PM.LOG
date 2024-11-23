@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=DEBUG1 NewDesignator=DEBUG
+Change Component Designator: OldDesignator=INA1 NewDesignator=INA219
+Change Component Designator: OldDesignator=JPCAN1 NewDesignator=JPBOOT
+Change Component Designator: OldDesignator=STM1 NewDesignator=STM32F103C8T6

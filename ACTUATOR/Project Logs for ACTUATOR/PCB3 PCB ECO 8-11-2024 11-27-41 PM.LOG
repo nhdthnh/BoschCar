@@ -1,0 +1,71 @@
+Added Component: Designator=D1(DIODE 1A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE 1A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=DC GEAR(JP4-C2T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61300821821"; VariantName = "[No Variations]"
+Added Component: Designator=FUSE(Fuse3)
+Added Component: Designator=SERVO(XH2.54M-3)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=SWITCH(SLIDE Switch)
+Added Component: Designator=XL4015(XL4015)
+Added Component: Designator=XL?(XL4015)
+Added Pin To Net: NetName=12V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=12V Pin=D?-1
+Added Pin To Net: NetName=R_PWM Pin=DC GEAR-1
+Added Pin To Net: NetName=GND Pin=DC GEAR-5
+Added Pin To Net: NetName=L_PWM Pin=DC GEAR-8
+Added Pin To Net: NetName=NetFUSE_1 Pin=FUSE-1
+Added Pin To Net: NetName=12V Pin=FUSE-2
+Added Pin To Net: NetName=Servo_PWM Pin=SERVO-1
+Added Pin To Net: NetName=GND Pin=SERVO-3
+Added Pin To Net: NetName=NetFUSE_1 Pin=SWITCH-1
+Added Pin To Net: NetName=12_VIN Pin=SWITCH-2
+Added Pin To Net: NetName=NetD1_2 Pin=XL4015-IN+
+Added Pin To Net: NetName=12_GND Pin=XL4015-IN-
+Added Pin To Net: NetName=+5 Pin=XL4015-OUT+
+Added Pin To Net: NetName=GND Pin=XL4015-OUT-
+Added Pin To Net: NetName=12_GND Pin=XL?-IN-
+Added Pin To Net: NetName=GND Pin=XL?-OUT-
+Added Pin To Net: NetName=+3.3 Pin=DC GEAR-2
+Added Pin To Net: NetName=+3.3 Pin=DC GEAR-4
+Added Pin To Net: NetName=+3.3 Pin=DC GEAR-7
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+7.2 Pin=SERVO-2
+Added Pin To Net: NetName=+7.2 Pin=XL?-OUT+
+Added Net: Name=+7.2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=XL?-IN+
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Sheet2 Member=Component D1 100v
+Added Member To Class: ClassName=Sheet2 Member=Component D? 100v
+Added Member To Class: ClassName=Sheet2 Member=Component DC GEAR
+Added Member To Class: ClassName=Sheet2 Member=Component FUSE Fuse Holder 23mm
+Added Member To Class: ClassName=Sheet2 Member=Component SERVO
+Added Member To Class: ClassName=Sheet2 Member=Component SWITCH Slide swich vertical
+Added Member To Class: ClassName=Sheet2 Member=Component XL4015
+Added Member To Class: ClassName=Sheet2 Member=Component XL? XL4015

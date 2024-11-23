@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=CAN_TX_ESP Pin=CAN-1
+Removed Pin From Net: NetName=CAN_RX_ESP Pin=CAN-2
+Removed Pin From Net: NetName=GND Pin=CAN-3
+Removed Pin From Net: NetName=+3.3 Pin=CAN-4
+Removed Member From Class: ClassName=Sheet1 Member=CAN
+Added Component: Designator=CAN?(JP 1x4 CC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x40P Cong"; VariantName = "[No Variations]"
+Added Component: Designator=ESP32(ESP32 SMALL)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32%20NODEMCU/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32 NODEMCU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32%20NODEMCU/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=CAN?-1
+Added Pin To Net: NetName=GND Pin=CAN?-2
+Added Pin To Net: NetName=CAN_RX_ESP Pin=CAN?-3
+Added Pin To Net: NetName=CAN_TX_ESP Pin=CAN?-4
+Added Pin To Net: NetName=GND Pin=ESP32-J4_1
+Added Pin To Net: NetName=SCL_ESP Pin=ESP32-J4_3
+Added Pin To Net: NetName=SDA_ESP Pin=ESP32-J4_6
+Added Pin To Net: NetName=GND Pin=ESP32-J4_7
+Added Pin To Net: NetName=CAN_TX_ESP Pin=ESP32-J4_10
+Added Pin To Net: NetName=CAN_RX_ESP Pin=ESP32-J4_13
+Added Pin To Net: NetName=+5 Pin=ESP32-J5_1
+Added Pin To Net: NetName=GND Pin=ESP32-J5_6
+Added Pin To Net: NetName=+3.3 Pin=ESP32-J5_19
+Added Member To Class: ClassName=Sheet1 Member=Component CAN? JP 1x4 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component ESP32 ESP32_NODEMCU

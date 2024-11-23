@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=INA219-VCC
+Removed Pin From Net: NetName=+5 Pin=MPU GY 91-VCC
+Added Pin To Net: NetName=+3.3 Pin=INA219-VCC
+Added Pin To Net: NetName=+3.3 Pin=MPU GY 91-3.3V
+Added Pin To Net: NetName=+3.3 Pin=STM32F103C8T6-38
+Added Net: Name=+3.3

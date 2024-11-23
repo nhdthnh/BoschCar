@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SWITCH Old Footprint=SLIDE Switch New Footprint=SW102T
+Change Component Designator: OldDesignator=CAN NewDesignator=CAN?

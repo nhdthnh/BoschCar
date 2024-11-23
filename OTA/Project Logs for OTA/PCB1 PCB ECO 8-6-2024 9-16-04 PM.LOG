@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=+5 Pin=B-1
+Removed Pin From Net: NetName=GND Pin=BTN1-1
+Removed Pin From Net: NetName=GND Pin=BTN2-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=12_GND Pin=CAN1-2
+Removed Pin From Net: NetName=CANH Pin=CAN1-3
+Removed Pin From Net: NetName=CANL Pin=CAN1-4
+Removed Pin From Net: NetName=12_GND Pin=CAN2-2
+Removed Pin From Net: NetName=CANH Pin=CAN2-3
+Removed Pin From Net: NetName=CANL Pin=CAN2-4
+Removed Pin From Net: NetName=12_GND Pin=CAN3-2
+Removed Pin From Net: NetName=CANH Pin=CAN3-3
+Removed Pin From Net: NetName=CANL Pin=CAN3-4
+Removed Pin From Net: NetName=+5 Pin=G-1
+Removed Pin From Net: NetName=CANL Pin=JPCAN-2
+Removed Pin From Net: NetName=+5 Pin=MCU 1-1
+Removed Pin From Net: NetName=GND Pin=MCU 1-2
+Removed Pin From Net: NetName=+5 Pin=MCU 2-1
+Removed Pin From Net: NetName=GND Pin=MCU 2-2
+Removed Pin From Net: NetName=12V Pin=POWER-1
+Removed Pin From Net: NetName=+5 Pin=R1-1
+Removed Pin From Net: NetName=SDA_ESP Pin=R1-2
+Removed Pin From Net: NetName=SCL_ESP Pin=R2-1
+Removed Pin From Net: NetName=+5 Pin=R2-2
+Removed Pin From Net: NetName=+5 Pin=R3-2
+Removed Pin From Net: NetName=CANH Pin=R4-2
+Removed Pin From Net: NetName=+5 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=+5 Pin=R-1
+Removed Pin From Net: NetName=CAN_TX_ESP Pin=TJA1050-1
+Removed Pin From Net: NetName=GND Pin=TJA1050-2
+Removed Pin From Net: NetName=+5 Pin=TJA1050-3
+Removed Pin From Net: NetName=CAN_RX_ESP Pin=TJA1050-4
+Removed Pin From Net: NetName=CANL Pin=TJA1050-6
+Removed Pin From Net: NetName=CANH Pin=TJA1050-7
+Removed Member From Class: ClassName=Sheet1 Member=B
+Removed Member From Class: ClassName=Sheet1 Member=BTN1
+Removed Member From Class: ClassName=Sheet1 Member=BTN2
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=CAN1
+Removed Member From Class: ClassName=Sheet1 Member=CAN2
+Removed Member From Class: ClassName=Sheet1 Member=CAN3
+Removed Member From Class: ClassName=Sheet1 Member=G
+Removed Member From Class: ClassName=Sheet1 Member=JPCAN
+Removed Member From Class: ClassName=Sheet1 Member=MCU 1
+Removed Member From Class: ClassName=Sheet1 Member=MCU 2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Removed Member From Class: ClassName=Sheet1 Member=R11
+Removed Member From Class: ClassName=Sheet1 Member=R
+Removed Member From Class: ClassName=Sheet1 Member=TJA1050
+Added Component: Designator=CAN(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Component: Designator=MCP2551 (JP 1x6 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=CAN-1
+Added Pin To Net: NetName=CANH Pin=CAN-2
+Added Pin To Net: NetName=CANL Pin=MCP2551 -1
+Added Pin To Net: NetName=CANH Pin=MCP2551 -2
+Added Pin To Net: NetName=CAN_RX_ESP Pin=MCP2551 -3
+Added Pin To Net: NetName=CAN_TX_ESP Pin=MCP2551 -4
+Added Pin To Net: NetName=GND Pin=MCP2551 -5
+Added Pin To Net: NetName=+5 Pin=MCP2551 -6
+Added Pin To Net: NetName=12V VIN Pin=POWER-1
+Added Pin To Net: NetName=12V VIN Pin=SWITCH-2
+Added Net: Name=12V VIN
+Added Member To Class: ClassName=Sheet1 Member=Component CAN
+Added Member To Class: ClassName=Sheet1 Member=Component MCP2551 
+Added Member To Class: ClassName=Sheet1 Member=Component XL4015

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=KF9-1
+Removed Pin From Net: NetName=12V Pin=KF9-2
+Change Component Designator: OldDesignator=DEBUG NewDesignator=JP1
+Added Component: Designator=KF?(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=KF?-1
+Added Pin To Net: NetName=GND Pin=KF?-2
+Added Member To Class: ClassName=Sheet2 Member=Component KF1 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF2 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF5 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF8 CON 2 KF301
+Added Member To Class: ClassName=Sheet2 Member=Component KF? CON 2 KF301

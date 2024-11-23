@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=12_VIN Pin=POWER-1
+Removed Pin From Net: NetName=12_GND Pin=POWER-2
+Change Component Designator: OldDesignator=CAN SN65HVD230  NewDesignator=CAN
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Added Pin To Net: NetName=12_GND Pin=POWER-1
+Added Pin To Net: NetName=12_VIN Pin=POWER-2
+Added Member To Class: ClassName=Sheet2 Member=Component CAN
